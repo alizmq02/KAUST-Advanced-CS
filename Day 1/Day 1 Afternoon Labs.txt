@@ -1,0 +1,5 @@
+Day 1 Afternoon Labs 
+
+Recon -  Session 2
+1. https://tryhackme.com/room/furthernmap
+2. https://tryhackme.com/room/nmap01 (optional)

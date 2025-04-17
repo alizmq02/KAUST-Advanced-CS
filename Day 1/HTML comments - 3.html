@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="User Data Table">
+    <meta name="author" content="Your Name">
+    <title>User Data</title>
+    <style>
+        /* Add your CSS styles here */
+        .table2 {
+            display: flex;
+            flex-direction: column;
+        }
+        .col1 {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+        .col2 {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>User Data</h1>
+    <p>Below is a list of active users:</p>
+    
+    <div class="table2">
+        <div class="col1">1</div><div class="col2">Mary</div>
+        <div class="col1">2</div><div class="col2">Peter</div>
+        <div class="col1">3</div><div class="col2">Joe</div>
+        
+        <!-- Query: SELECT id, name FROM app.users WHERE active='1' -->
+    </div>
+    
+    <footer>&copy; Rashid Tahir - KAUST Cybersecurity Course</footer>
+</body>
+</html>

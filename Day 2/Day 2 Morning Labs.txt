@@ -1,0 +1,5 @@
+Day 2 Morning Labs 
+Log Monitoring - Session 1
+1. https://tryhackme.com/room/introtologs
+2. https://tryhackme.com/room/introtologanalysis
+3. https://tryhackme.com/room/logoperations (optional)

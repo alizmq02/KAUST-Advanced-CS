@@ -1,0 +1,3 @@
+Day 2 Afternoon Labs 
+Log Monitoring - Session 2
+1. https://tryhackme.com/room/introtosiem

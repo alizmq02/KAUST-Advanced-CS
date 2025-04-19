@@ -1,0 +1,41 @@
+
+Day3 
+Web Application Security - Morning and Afternoon Sessions 1 & 2 
+
+Topics followed by the lab links 
+
+1. Authentication Testing
+Guided Lab: https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-broken-logic
+Challenge Lab: https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-subtly-different-responses
+
+2. Access Control: 
+Guided Lab: https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
+
+3. Broken Function Level Authorization: 
+Guided Lab: https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
+Challenge Lab: https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
+
+4. Sample Reflected XSS: 
+Guided Lab: https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
+
+5. Sample Stored XSS: 
+Guided Lab: https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded
+
+6. Document Object Model (DOM) XSS: 
+Guided Lab: https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink
+
+7. CSRF
+Guided Lab:
+https://portswigger.net/web-security/csrf/lab-no-defenses
+
+For further Studies: 
+
+Solve the first three Labs for each of the following topics on https://portswigger.net/web-security/all-labs
+
+SQL Injection
+XSS
+CSRF
+OS Command Injection
+Path Traversal
+Access Control Vulnerabilities
+Authentication
